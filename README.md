@@ -1,4 +1,4 @@
-# typosquatting-detector-proxy (based on dns-proxy project)
+# typosquatting-detector-proxy (fork of dns-proxy)
 
 # About
 This project is a fork of https://github.com/kolobok86/dns-proxy with modifications in order to prevent typosquatting attacks.
